@@ -1,0 +1,99 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body{
+    color: #707071;
+    font-weight: 400;
+}
+.card{
+    border-radius:30px;
+    /* border-color: #918BD7!important; */
+}
+
+/*--------------------------------------------------------------
+# Introduction
+--------------------------------------------------------------*/
+.text{
+    text-align: justify;
+}
+
+/*--------------------------------------------------------------
+# COntact Me
+--------------------------------------------------------------*/
+.btn-outline-secondary{
+    font-weight: 500;
+    font-size: 18px;
+    color:#ffffff;
+    border-radius: 30px;
+    background-color:#918BD7;
+}
+
+.btn-outline-secondary:hover{
+    font-weight: 500;
+    font-size: 18px;
+    color:#ffffff;
+    border-radius: 30px;
+    background-color:#716ab8;
+}
+
+.btn-outline-secondary:active{
+    font-weight: 500;
+    font-size: 18px;
+    color:#ffffff;
+    border-radius: 30px;
+    background-color:#585396;
+}
+  
+/*--------------------------------------------------------------
+# Contact Me
+--------------------------------------------------------------*/
+.cv-link{
+    font-weight: 500;
+    font-size: 18px;
+    color:#707071;
+}
+
+.fa-download{
+    color:#918BD7;
+}
+
+.fa-download:hover{
+    color:#716ab8;
+}
+
+.fa-download:active{
+    color:#585396;
+
+}
+
+/*--------------------------------------------------------------
+# Social Icons
+--------------------------------------------------------------*/
+.linkedin,.github,.instagram{
+    background-color: #918BD7;
+    padding: 10px 14px 10px 14px;
+    border-radius: 40px;
+    color: #ffffff;
+}
+
+.linkedin:hover,.github:hover,.instagram:hover{
+    background-color: #716ab8;
+    padding: 10px 14px 10px 14px;
+    border-radius: 40px;
+    color: #ffffff;
+}
+
+.linkedin:active,.github:active,.instagram:active{
+    background-color: #585396;
+    padding: 10px 14px 10px 14px;
+    border-radius: 40px;
+    color: #ffffff;
+}
+
+/*--------------------------------------------------------------
+# Card
+--------------------------------------------------------------*/
+.photo{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
